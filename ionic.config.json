@@ -1,6 +1,6 @@
 {
-  "name": "RjsoftMusic",
-  "app_id": "",
-  "type": "ionic-angular",
-  "integrations": {}
+    "name": "app-ionic3",
+    "app_id": "",
+    "type": "ionic-angular",
+    "integrations": {}
 }
